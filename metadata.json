@@ -1,0 +1,5 @@
+{
+  "name": "NameCraft",
+  "description": "Generate high-quality, meaningful usernames based on user personality, interests, and style preferences.",
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
